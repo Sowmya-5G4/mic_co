@@ -1,0 +1,6 @@
+departments
+cs
+it
+ece
+eee
+mech
